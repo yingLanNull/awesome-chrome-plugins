@@ -191,7 +191,7 @@
 * [PP购物](https://chrome.google.com/webstore/detail/pp-shopping-best-price-sa/kfgmnlgjmofpiicpgohgfpeabgpmhjdp?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et) - 自动寻找更低价，折扣查找，多个网站比较搜索的购物工具。
 * [惠惠购物助手](https://chrome.google.com/webstore/detail/%E6%83%A0%E6%83%A0%E8%B4%AD%E7%89%A9%E5%8A%A9%E6%89%8B/ohjkicjidmohhfcjjlahfppkdblibkkb?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et) - 【网易出品】在您网购浏览商品的同时，自动对比其他优质电商同款商品价格，并提供商品价格历史，帮您轻松抄底，聪明网购不吃亏！
 * [AliExpress购物助手](https://chrome.google.com/webstore/detail/aliexpress-shopping-and-c/mbpccgpiidnajgnapidpjmcjakjhkbom?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et) - 通过购物和分享获得返现; 商品历史价格趋势; 降价提醒; 相识商品比价与推荐。
-
+* [Enhanced Steam](https://chrome.google.com/webstore/detail/enhanced-steam/okadibdjfemgnhjiembecghcbfknbfhg) - Enhanced Steam是一款可以Steam网站添加许多新功能的谷歌浏览器扩展程序，是居家必备steam游戏折扣助手。
 
 ## 其他
 
