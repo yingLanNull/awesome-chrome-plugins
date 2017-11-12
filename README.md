@@ -123,6 +123,7 @@
 * [SmoothScroll](https://chrome.google.com/webstore/detail/smoothscroll/nbokbjkabcmbfdlbddjidfmibcpneigj) - 使用鼠标和键盘在所有网站上平滑滚动。
 * [smartUp手势](https://chrome.google.com/webstore/detail/smartup-gestures/bgjfekefhjemchdeigphccilhncnjldn) - 一个更好的手势类扩展。功能包括：鼠标手势，简易拖曳，超级拖曳，摇杆手势和滚轮手势。
 * [Linkclump](https://chrome.google.com/webstore/detail/linkclump/lfpjkncokllnfokkgpkobnkbkmelfefj?hl=en-US&utm_source=chrome-ntp-launcher) - 让您同时对多个链接进行打开、复制或添加到书签的操作。
+* [Bookmark Sidebar](https://chrome.google.com/webstore/detail/bookmark-sidebar/jdbnofccmhefkmjbkkdkfiicjkgofkdh) - 在你的屏幕一侧添加一个可以添加书签的工具栏。
 
 ## 图片下载
 
