@@ -74,6 +74,7 @@
 * [IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd) - 在标签页中以IE内核显示网页。快捷、强健、可靠。是这个插件最流行的一个原因。
 * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et) - 轻松快捷地管理和切换多个代理设置。
 * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies！
+* [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?utm_source=InfinityNewtab) - XPath助手使得在任何网页上提取、编辑和评估XPath查询变得容易。
 
 ## 文档编辑
 
