@@ -13,6 +13,7 @@
 - [网页截图批注](#网页截图批注)
 - [网页浏览工具](#网页浏览工具)
 - [图片下载](#图片下载)
+- [视频下载](#视频下载)
 - [搜索增强](#搜索增强)
 - [快捷翻译](#快捷翻译)
 - [资讯相关](#资讯相关)
@@ -74,7 +75,8 @@
 * [IE Tab](https://chrome.google.com/webstore/detail/ie-tab/hehijbfgiekmjfkfjpbkbammjbdenadd) - 在标签页中以IE内核显示网页。快捷、强健、可靠。是这个插件最流行的一个原因。
 * [Proxy SwitchyOmega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif?utm_campaign=en&utm_source=en-et-na-us-oc-webstrext&utm_medium=et) - 轻松快捷地管理和切换多个代理设置。
 * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies！
-* [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl?utm_source=InfinityNewtab) - XPath助手使得在任何网页上提取、编辑和评估XPath查询变得容易。
+* [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) - XPath助手使得在任何网页上提取、编辑和评估XPath查询变得容易。
+* [Welderio](https://chrome.google.com/webstore/detail/welderio/klmajhdhcllpbfgnflnegdjkacjaeipa) - 在Chrome中启动Android应用。
 
 ## 文档编辑
 
@@ -134,6 +136,12 @@
 * [Image Downloader](https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj) - 在网页上浏览和下载图像。
 * [Fatkun图片批量下载](https://chrome.google.com/webstore/detail/fatkun-batch-download-ima/nnjjahlikiabnchcpehcpkdeckfgnohf) - 找出当前页面的所有图片，提供按分辨率、链接等筛选图片，做一个简单好用的下载图片扩展！
 * [Hover Zoom](https://chrome.google.com/webstore/detail/hover-zoom/nonjdcjchghhkdoolnlbekcfllmednbl) - 在鼠标悬停上放大缩略图。 适用于许多网站（Facebook，Twitter，Flickr，Reddit，Amazon，Tumblr等）。
+
+## 视频下载
+
+*下载在浏览过程中遇到的视频*
+
+* [Video Downloader professional](https://chrome.google.com/webstore/detail/video-downloader-professi/jpaglkhbmbmhlnpnehlffkgaaapoicnk) - 即快又简单的方式保存任何页面视频。
 
 ## 搜索增强
 
