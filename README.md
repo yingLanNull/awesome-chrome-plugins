@@ -77,6 +77,7 @@
 * [EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) - EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies！
 * [XPath Helper](https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl) - XPath助手使得在任何网页上提取、编辑和评估XPath查询变得容易。
 * [Welderio](https://chrome.google.com/webstore/detail/welderio/klmajhdhcllpbfgnflnegdjkacjaeipa) - 在Chrome中启动Android应用。
+* [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) - 用于调试Vue.js的Chrome扩展应用程序。。
 
 ## 文档编辑
 
